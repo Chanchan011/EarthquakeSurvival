@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1651057830 source:e:\motngaynaodo\semesterassignment\earthquakesurvival\util.cpp
+	<SDL.h>
+	<iostream>
+
+1652746180 source:e:\motngaynaodo\semesterassignment\earthquakesurvival\game.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"gameplay.h"
+	"util.h"
+
+1652753402 source:e:\motngaynaodo\semesterassignment\earthquakesurvival\main.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"game.h"
+	"gameplay.h"
+	"timer.h"
+	"util.h"
+
+1646745953 e:\motngaynaodo\semesterassignment\earthquakesurvival\util.h
+	<SDL.h>
+	<string>
+
+1652712927 e:\motngaynaodo\semesterassignment\earthquakesurvival\game.h
+	<bits/stdc++.h>
+	<SDL.h>
+
+1652711776 e:\motngaynaodo\semesterassignment\earthquakesurvival\gameplay.h
+	<bits/stdc++.h>
+	<SDL.h>
+
+1652714430 source:e:\motngaynaodo\semesterassignment\earthquakesurvival\gameplay.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"game.h"
+	"timer.h"
+	"util.h"
+
+1652198100 e:\motngaynaodo\semesterassignment\earthquakesurvival\timer.h
+	<bits/stdc++.h>
+	<SDL.h>
+
+1652746330 source:e:\motngaynaodo\semesterassignment\earthquakesurvival\timer.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"game.h"
+	"util.h"
+
+1651852756 e:\motngaynaodo\semesterassignment\earthquakesurvival\headers\game.h
+	<bits/stdc++.h>
+	<SDL.h>
+
+1652121990 e:\motngaynaodo\semesterassignment\earthquakesurvival\headers\gameplay.h
+	<bits/stdc++.h>
+	<SDL.h>
+
+1652198100 e:\motngaynaodo\semesterassignment\earthquakesurvival\headers\timer.h
+	<bits/stdc++.h>
+	<SDL.h>
+
+1646745953 e:\motngaynaodo\semesterassignment\earthquakesurvival\headers\util.h
+	<SDL.h>
+	<string>
+
